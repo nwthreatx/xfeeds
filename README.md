@@ -1,5 +1,5 @@
 # xfeeds
-Public Threat Intelegence
+Public Threat Intelligence
 
 This week ThreatX completed an off-site company get-together in Louisville, Colorado. With so many circumstances inhibiting in-person gatherings it was overdue and a welcomed way to rally the team behind our corporate visions; to stop attackers and change the cybersecurity landscape.  
 
